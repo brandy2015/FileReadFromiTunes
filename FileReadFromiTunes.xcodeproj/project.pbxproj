@@ -7,14 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D655974C1E25F84F005F67E7 /* PlayVideofromfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655974B1E25F84F005F67E7 /* PlayVideofromfileViewController.swift */; };
+		D655974E1E261B2C005F67E7 /* AgainbofangshipinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655974D1E261B2C005F67E7 /* AgainbofangshipinViewController.swift */; };
+		D655975E1E261C1E005F67E7 /* ZZPlayerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655974F1E261C1E005F67E7 /* ZZPlayerView.swift */; };
+		D655975F1E261C1E005F67E7 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = D65597501E261C1E005F67E7 /* LICENSE */; };
+		D65597601E261C1E005F67E7 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = D65597511E261C1E005F67E7 /* README.md */; };
+		D65597611E261C1E005F67E7 /* Constraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597521E261C1E005F67E7 /* Constraint.swift */; };
+		D65597621E261C1E005F67E7 /* ConstraintAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597531E261C1E005F67E7 /* ConstraintAttributes.swift */; };
+		D65597631E261C1E005F67E7 /* ConstraintDescription.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597541E261C1E005F67E7 /* ConstraintDescription.swift */; };
+		D65597641E261C1E005F67E7 /* ConstraintItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597551E261C1E005F67E7 /* ConstraintItem.swift */; };
+		D65597651E261C1E005F67E7 /* ConstraintMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597561E261C1E005F67E7 /* ConstraintMaker.swift */; };
+		D65597661E261C1E005F67E7 /* ConstraintRelation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597571E261C1E005F67E7 /* ConstraintRelation.swift */; };
+		D65597671E261C1E005F67E7 /* Debugging.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597581E261C1E005F67E7 /* Debugging.swift */; };
+		D65597681E261C1E005F67E7 /* EdgeInsets.swift in Sources */ = {isa = PBXBuildFile; fileRef = D65597591E261C1E005F67E7 /* EdgeInsets.swift */; };
+		D65597691E261C1E005F67E7 /* LayoutConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655975A1E261C1E005F67E7 /* LayoutConstraint.swift */; };
+		D655976A1E261C1E005F67E7 /* SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655975B1E261C1E005F67E7 /* SnapKit.swift */; };
+		D655976B1E261C1E005F67E7 /* View+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655975C1E261C1E005F67E7 /* View+SnapKit.swift */; };
+		D655976C1E261C1E005F67E7 /* ViewController+SnapKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = D655975D1E261C1E005F67E7 /* ViewController+SnapKit.swift */; };
+		D65597731E261CE6005F67E7 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D65597721E261CE6005F67E7 /* MBProgressHUD.m */; };
+		D68D049A1E246025000E186E /* FileVideoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68D04991E246025000E186E /* FileVideoTableViewController.swift */; };
 		D6F3BD7F1E23535C0072C369 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F3BD7E1E23535C0072C369 /* AppDelegate.swift */; };
 		D6F3BD811E23535C0072C369 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F3BD801E23535C0072C369 /* ViewController.swift */; };
 		D6F3BD841E23535D0072C369 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6F3BD821E23535D0072C369 /* Main.storyboard */; };
 		D6F3BD861E23535D0072C369 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6F3BD851E23535D0072C369 /* Assets.xcassets */; };
 		D6F3BD891E23535D0072C369 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6F3BD871E23535D0072C369 /* LaunchScreen.storyboard */; };
+		D6F3BD911E23CD320072C369 /* FIleReadTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6F3BD901E23CD320072C369 /* FIleReadTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D655974B1E25F84F005F67E7 /* PlayVideofromfileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayVideofromfileViewController.swift; sourceTree = "<group>"; };
+		D655974D1E261B2C005F67E7 /* AgainbofangshipinViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AgainbofangshipinViewController.swift; sourceTree = "<group>"; };
+		D655974F1E261C1E005F67E7 /* ZZPlayerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZZPlayerView.swift; sourceTree = "<group>"; };
+		D65597501E261C1E005F67E7 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		D65597511E261C1E005F67E7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		D65597521E261C1E005F67E7 /* Constraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constraint.swift; sourceTree = "<group>"; };
+		D65597531E261C1E005F67E7 /* ConstraintAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintAttributes.swift; sourceTree = "<group>"; };
+		D65597541E261C1E005F67E7 /* ConstraintDescription.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintDescription.swift; sourceTree = "<group>"; };
+		D65597551E261C1E005F67E7 /* ConstraintItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintItem.swift; sourceTree = "<group>"; };
+		D65597561E261C1E005F67E7 /* ConstraintMaker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintMaker.swift; sourceTree = "<group>"; };
+		D65597571E261C1E005F67E7 /* ConstraintRelation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConstraintRelation.swift; sourceTree = "<group>"; };
+		D65597581E261C1E005F67E7 /* Debugging.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Debugging.swift; sourceTree = "<group>"; };
+		D65597591E261C1E005F67E7 /* EdgeInsets.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EdgeInsets.swift; sourceTree = "<group>"; };
+		D655975A1E261C1E005F67E7 /* LayoutConstraint.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LayoutConstraint.swift; sourceTree = "<group>"; };
+		D655975B1E261C1E005F67E7 /* SnapKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SnapKit.swift; sourceTree = "<group>"; };
+		D655975C1E261C1E005F67E7 /* View+SnapKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "View+SnapKit.swift"; sourceTree = "<group>"; };
+		D655975D1E261C1E005F67E7 /* ViewController+SnapKit.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ViewController+SnapKit.swift"; sourceTree = "<group>"; };
+		D65597701E261CE5005F67E7 /* FileReadFromiTunes-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FileReadFromiTunes-Bridging-Header.h"; sourceTree = "<group>"; };
+		D65597711E261CE6005F67E7 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		D65597721E261CE6005F67E7 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		D68D04991E246025000E186E /* FileVideoTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileVideoTableViewController.swift; sourceTree = "<group>"; };
 		D6F3BD7B1E23535C0072C369 /* FileReadFromiTunes.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FileReadFromiTunes.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D6F3BD7E1E23535C0072C369 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D6F3BD801E23535C0072C369 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +63,7 @@
 		D6F3BD851E23535D0072C369 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6F3BD881E23535D0072C369 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6F3BD8A1E23535E0072C369 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6F3BD901E23CD320072C369 /* FIleReadTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FIleReadTableViewController.swift; path = ../FIleReadTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,9 +77,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D655976D1E261C2E005F67E7 /* 视频播放器 */ = {
+			isa = PBXGroup;
+			children = (
+				D655974F1E261C1E005F67E7 /* ZZPlayerView.swift */,
+				D65597501E261C1E005F67E7 /* LICENSE */,
+				D65597511E261C1E005F67E7 /* README.md */,
+				D65597521E261C1E005F67E7 /* Constraint.swift */,
+				D65597531E261C1E005F67E7 /* ConstraintAttributes.swift */,
+				D65597541E261C1E005F67E7 /* ConstraintDescription.swift */,
+				D65597551E261C1E005F67E7 /* ConstraintItem.swift */,
+				D65597561E261C1E005F67E7 /* ConstraintMaker.swift */,
+				D65597571E261C1E005F67E7 /* ConstraintRelation.swift */,
+				D65597581E261C1E005F67E7 /* Debugging.swift */,
+				D65597591E261C1E005F67E7 /* EdgeInsets.swift */,
+				D655975A1E261C1E005F67E7 /* LayoutConstraint.swift */,
+				D655975B1E261C1E005F67E7 /* SnapKit.swift */,
+				D655975C1E261C1E005F67E7 /* View+SnapKit.swift */,
+				D655975D1E261C1E005F67E7 /* ViewController+SnapKit.swift */,
+			);
+			name = "视频播放器";
+			sourceTree = "<group>";
+		};
 		D6F3BD721E23535C0072C369 = {
 			isa = PBXGroup;
 			children = (
+				D65597701E261CE5005F67E7 /* FileReadFromiTunes-Bridging-Header.h */,
+				D65597711E261CE6005F67E7 /* MBProgressHUD.h */,
+				D65597721E261CE6005F67E7 /* MBProgressHUD.m */,
+				D655976D1E261C2E005F67E7 /* 视频播放器 */,
+				D655974D1E261B2C005F67E7 /* AgainbofangshipinViewController.swift */,
+				D655974B1E25F84F005F67E7 /* PlayVideofromfileViewController.swift */,
 				D6F3BD7D1E23535C0072C369 /* FileReadFromiTunes */,
 				D6F3BD7C1E23535C0072C369 /* Products */,
 			);
@@ -57,6 +127,8 @@
 				D6F3BD7E1E23535C0072C369 /* AppDelegate.swift */,
 				D6F3BD801E23535C0072C369 /* ViewController.swift */,
 				D6F3BD821E23535D0072C369 /* Main.storyboard */,
+				D6F3BD901E23CD320072C369 /* FIleReadTableViewController.swift */,
+				D68D04991E246025000E186E /* FileVideoTableViewController.swift */,
 				D6F3BD851E23535D0072C369 /* Assets.xcassets */,
 				D6F3BD871E23535D0072C369 /* LaunchScreen.storyboard */,
 				D6F3BD8A1E23535E0072C369 /* Info.plist */,
@@ -97,6 +169,7 @@
 					D6F3BD7A1E23535C0072C369 = {
 						CreatedOnToolsVersion = 8.2.1;
 						DevelopmentTeam = E5VG453CHM;
+						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -126,6 +199,7 @@
 			files = (
 				D6F3BD891E23535D0072C369 /* LaunchScreen.storyboard in Resources */,
 				D6F3BD861E23535D0072C369 /* Assets.xcassets in Resources */,
+				D655975F1E261C1E005F67E7 /* LICENSE in Resources */,
 				D6F3BD841E23535D0072C369 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -137,8 +211,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D65597611E261C1E005F67E7 /* Constraint.swift in Sources */,
 				D6F3BD811E23535C0072C369 /* ViewController.swift in Sources */,
+				D655974C1E25F84F005F67E7 /* PlayVideofromfileViewController.swift in Sources */,
+				D655976C1E261C1E005F67E7 /* ViewController+SnapKit.swift in Sources */,
+				D65597621E261C1E005F67E7 /* ConstraintAttributes.swift in Sources */,
+				D655975E1E261C1E005F67E7 /* ZZPlayerView.swift in Sources */,
 				D6F3BD7F1E23535C0072C369 /* AppDelegate.swift in Sources */,
+				D65597681E261C1E005F67E7 /* EdgeInsets.swift in Sources */,
+				D6F3BD911E23CD320072C369 /* FIleReadTableViewController.swift in Sources */,
+				D65597671E261C1E005F67E7 /* Debugging.swift in Sources */,
+				D68D049A1E246025000E186E /* FileVideoTableViewController.swift in Sources */,
+				D655976A1E261C1E005F67E7 /* SnapKit.swift in Sources */,
+				D655976B1E261C1E005F67E7 /* View+SnapKit.swift in Sources */,
+				D65597601E261C1E005F67E7 /* README.md in Sources */,
+				D65597731E261CE6005F67E7 /* MBProgressHUD.m in Sources */,
+				D655974E1E261B2C005F67E7 /* AgainbofangshipinViewController.swift in Sources */,
+				D65597661E261C1E005F67E7 /* ConstraintRelation.swift in Sources */,
+				D65597651E261C1E005F67E7 /* ConstraintMaker.swift in Sources */,
+				D65597691E261C1E005F67E7 /* LayoutConstraint.swift in Sources */,
+				D65597631E261C1E005F67E7 /* ConstraintDescription.swift in Sources */,
+				D65597641E261C1E005F67E7 /* ConstraintItem.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,11 +354,14 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = E5VG453CHM;
 				INFOPLIST_FILE = FileReadFromiTunes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zhangqian.FileReadFromiTunes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FileReadFromiTunes-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -274,11 +370,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				DEVELOPMENT_TEAM = E5VG453CHM;
 				INFOPLIST_FILE = FileReadFromiTunes/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.zhangqian.FileReadFromiTunes;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "FileReadFromiTunes-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
@@ -302,6 +400,7 @@
 				D6F3BD8F1E23535E0072C369 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
